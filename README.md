@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m RAVITEJA AKA @MISTERXYMISTER
--  👀 I’m interested in App & Game Developments 
+-  👀 I’m interested in Web, App & Game Developments 
 -  🌱 I’m currently learning React Native 
 -  💞️ I’m looking to collaborate on Fasinating Development projects
 
